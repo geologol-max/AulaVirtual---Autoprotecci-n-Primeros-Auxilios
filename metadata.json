@@ -1,0 +1,6 @@
+{
+  "name": "AulaVirtual - Autoprotección & Primeros Auxilios",
+  "description": "Plataforma educativa interactiva especializada en autoprotección, primeros auxilios, emergencias, incendios y sismos. Incluye módulos de cursos, videoconferencias sincrónicas, foros de discusión y gestión de tareas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
